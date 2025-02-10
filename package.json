@@ -7,7 +7,7 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Middleware and wrappers to supplement SQL statements from Sequelize.js and Express.js api responses",
   "dependencies": {
     "@ehsc/cls-hooked": "^1.0.2"
   }
